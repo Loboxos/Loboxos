@@ -3,7 +3,7 @@
  <h3 align="center">Redes Sociales</h3>
 <p align="center">
 <a href="https://www.facebook.com/Cristian-Villa/100045562684295/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://www.facebook.com/people/Cristian-Villa/100045562684295/" height="30" width="40" /></a>
-<a href="https://www.instagram.com/cristianvilla._.15/?hl=es-la" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="@naomi_poclava" height="30" width="40" /></a>
+<a href="https://www.instagram.com/cristianvilla._.15/?hl=es-la" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="@cristianvilla._.15" height="30" width="40" /></a>
 
 </p>
 <!--
