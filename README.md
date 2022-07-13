@@ -1,4 +1,9 @@
 ## Hola Soy Cristian 👋                  <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=Loboxos">
+<div align="center">
+	<img src="https://raw.githubusercontent.com/Loboxos/Loboxos/main/original2.gif" alt="Hola soy Cristian Villa">
+</div>
+
+ 
  
  <h3 align="center">Redes Sociales</h3>
 <p align="center">
