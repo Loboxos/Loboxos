@@ -9,7 +9,8 @@
 <p align="center">
 <a href="https://www.facebook.com/100045562684295/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://www.facebook.com/100045562684295/" height="30" width="40" /></a>
 <a href="https://www.instagram.com/cristianvilla._.15/?hl=es" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="@cristianvilla._.15" height="30" width="40" /></a>
-<a href="https://www.linkedin.com/in/cristianvilla15/" target="blank"><img align="center" src="https://iconos8.es/icon/xuvGCOXi8Wyg/linkedin" alt="cristianvilla15" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/cristianvilla15/" target="blank"><img align="center" src="![image](https://github.com/Loboxos/Loboxos/assets/100051726/c464a406-8992-4333-8f8a-60af338ff523)
+" alt="cristianvilla15" height="30" width="40" /></a>
 
 </p>
 <!--
